@@ -60,7 +60,7 @@ We'll also use the following from PyTorch:
 
 """
 import sys
-sys.path.append("c:/users/user/anaconda3/envs/dqn/lib/site-packages")
+# sys.path.append("c:/users/user/anaconda3/envs/dqn/lib/site-packages")
 import gymnasium as gym
 import math
 import random
