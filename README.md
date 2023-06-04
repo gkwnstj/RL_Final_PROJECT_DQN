@@ -3,3 +3,4 @@
 import gymnasium error : import sys sys.path.append(library_location) https://cumulu-s.tistory.com/16
 DQN from torch         : https://github.com/pytorch/tutorials/blob/main/intermediate_source/reinforcement_q_learning.py
                        : https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html
+                       : https://github.com/JM-Kim-94/rl-pendulum/blob/master/Pendulum_DQN/pendulum_dqn.py
